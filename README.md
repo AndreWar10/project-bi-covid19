@@ -13,7 +13,7 @@ Projeto elaborado a fim de estudos, pela disciplina de Estatística Aplicada. No
 7. Quantas pessoas tomaram a primeira dose?
 8. Qual etnia teve maior número de pessoas vacinadas?
 9. Qual o total de pessoas vacinadas no país, de acordo com os dados obtidos?
-10.Qual estado da região sudeste vacinou mais e qual vacinou menos pessoas?  
+10. Qual estado da região sudeste vacinou mais e qual vacinou menos pessoas?  
   
 Resultado: Conseguimos com êxito responder as perguntas e ademais obter mais informações ainda com a montagem do dashboard em powerBI, segue a estrutura do projeto:
 
