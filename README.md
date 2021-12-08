@@ -4,16 +4,16 @@
 
 Projeto elaborado a fim de estudos, pela disciplina de Estatística Aplicada. Nosso objetivo inicial era responder com o Dashboard as 10 seguintes perguntas elaboradas:
 
-1) Qual foi o sexo mais vacinado no país?
-2) Qual o percentual de vacinados do sexo masculino?
-3) Qual o percentual de vacinados do sexo feminino?
-4) Quais os 5 estados que mais vacinaram?
-5) Quantas pessoas com mais de 60 anos foram vacinadas?
-6) Quantas pessoas tomaram a segunda dose?
-7) Quantas pessoas tomaram a primeira dose?
-8) Qual etnia teve maior número de pessoas vacinadas?
-9) Qual o total de pessoas vacinadas no país, de acordo com os dados obtidos?
-10) Qual estado da região sudeste vacinou mais e qual vacinou menos pessoas?  
+1. Qual foi o sexo mais vacinado no país?
+2. Qual o percentual de vacinados do sexo masculino?
+3. Qual o percentual de vacinados do sexo feminino?
+4. Quais os 5 estados que mais vacinaram?
+5. Quantas pessoas com mais de 60 anos foram vacinadas?
+6. Quantas pessoas tomaram a segunda dose?
+7. Quantas pessoas tomaram a primeira dose?
+8. Qual etnia teve maior número de pessoas vacinadas?
+9. Qual o total de pessoas vacinadas no país, de acordo com os dados obtidos?
+10.Qual estado da região sudeste vacinou mais e qual vacinou menos pessoas?  
   
 Resultado: Conseguimos com êxito responder as perguntas e ademais obter mais informações ainda com a montagem do dashboard em powerBI, segue a estrutura do projeto:
 
